@@ -1,14 +1,7 @@
-/**
-* A client to test competitors implementing the CompetitorInterface
-*
-* @author (David Luginbuhl)
-* @version (Spring 2022 Assn2)
-*/
+// client to be used for Competitor file
 public class CompetitorClient {
     public static void main(String[] args) throws Exception {
         
-        // Player names taken from characters in The Stormlight Archives, by Brandon Sanderson
-        // Copyright 2010, 2014, 2017, 2020
         //Szeth is from team Shin
         Competitor szeth = new Competitor("Szeth","Shin");
 
