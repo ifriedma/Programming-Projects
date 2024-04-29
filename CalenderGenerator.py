@@ -1,3 +1,5 @@
+# Generates a calendar when given the year, as well as the first day of the year
+
 def get_first_day_year():
     first_day = int(input('Enter the first day of the year, (ex. Sunday = 0, Monday = 1, Tuesday = 2, etc.):'))
     while first_day < 0 or first_day > 6:
