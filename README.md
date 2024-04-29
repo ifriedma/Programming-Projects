@@ -1,1 +1,2 @@
-# Compilation of past and current programming projects
+# Program Repository
+Repository to organize my past programming projects
